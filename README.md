@@ -1,7 +1,7 @@
 # KlangValley-House-Price-Prediction
 Milestone 1: Web Scraping
 <li>The video show how we scrap the properties data from the Mudah.my websites.</li>
-<li>The scrap the property from KL and Selangor.</li>
+<li>We scrap the property from KL and Selangor.</li>
 <li>https://drive.google.com/file/d/1A-klgDt8p-WUjFKYpIRzdofoHY1rYjRe/view?usp=sharing </li>\
 
 Milestone 2: Data Management
