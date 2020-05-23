@@ -10,7 +10,7 @@ Milestone 2: Data Management
 
 
 Online Assessment 1: Preprocessing
-<li>The script can be found in online assessment1_Data Mining Folder. The preprocess including data integretion, replace missing values, remove missing value, change the format for the attributes,remove unnecessary columns and so on. </li>/
+<li>The script can be found in Online Assessment1_Data Mining Folder. The preprocess including data integretion, replace missing values, remove missing value, change the format for the attributes,remove unnecessary columns and so on. </li>/
 
 
 Milestone 3: Access hive data warehouse by using python
