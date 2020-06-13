@@ -17,3 +17,7 @@ Milestone 3: Access Hive Data Warehouse by using Python
 Milestone 4: Data Interpretation and Communication of Insights
 <li>The video explains the insights we have found from our clean dataset. Linear Regression model is build to predict the house price in klang Valley.</li>
 <li>https://drive.google.com/file/d/1VrHRLtnBo6IOCcsGVJvM-eIIc3sFmctc/view?usp=sharing</li></br>
+
+Milestone 5: Model Deployment using Flask
+<li>The video explains how to deploy the regression model by using Flask</li>
+<li>https://drive.google.com/file/d/1mMN2To6Pvs6FZyBBwA8LIUbukMGGa8bY/view?usp=sharing</li></br>
