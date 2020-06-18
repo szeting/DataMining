@@ -20,5 +20,5 @@ Milestone 4: Data Interpretation and Communication of Insights
 
 Milestone 5: Model Deployment using Flask
 <li>The video explains how to deploy the regression model by using Flask</li>
-<li>https://drive.google.com/file/d/1mMN2To6Pvs6FZyBBwA8LIUbukMGGa8bY/view?usp=sharing</li></br>
+<li>https://drive.google.com/file/d/1mMN2To6Pvs6FZyBBwA8LIUbukMGGa8bY/view?usp=sharing</li>
 <li>app link:https://app-house-priceprediction.herokuapp.com/</li></br>
